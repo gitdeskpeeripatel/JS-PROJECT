@@ -1,6 +1,6 @@
 # 🗂️ JS-PROJECT
 
-### 🌐 Live Demo: 
+### 🌐 Live Demo: js-project-flax.vercel.app
 
 ## 📌 Project Title - JS-PROJECT – Interactive Web App
 ### 📝 Project Description
@@ -43,6 +43,3 @@ Modular file structure for ease of development and maintenance
 >No server setup required — this is a static frontend project.
 
 
-
-
-### 📸 Screenshot
