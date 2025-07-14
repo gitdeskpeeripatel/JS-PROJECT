@@ -1,6 +1,6 @@
 # 🗂️ JS-PROJECT
 
-### 🌐 Live Demo: js-project-flax.vercel.app
+### 🌐 Live Demo: https://js-project-flax.vercel.app/
 
 ## 📌 Project Title - JS-PROJECT – Interactive Web App
 ### 📝 Project Description
